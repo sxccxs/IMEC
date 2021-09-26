@@ -8,7 +8,7 @@ IMEC is a console-based calculator, created for computing measurements errors an
 
 ## How are calculations done
 
-- Calculation of average values is simply made using formula **<x> = ∑xᵢ / n**
+- Calculation of average values is simply made using formula **\<x> = ∑xᵢ / n**
 - Then computation of measurements error is done using formula **∆x = σ \* tnp** , where tnp is a coefficient, specified by user and sigma is calculated using formula **σ = (∑ (xᵢ - <x>)²) / (n \* (n-1))**
 - Then to calculate an indirect error the formula **∆f = √∑(∂f/∂yᵢ \* ∆yᵢ)²** is used, where yᵢ is a measured variable and ∆yᵢ is its error.
 
