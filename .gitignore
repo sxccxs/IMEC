@@ -1,0 +1,11 @@
+.vscode/
+
+__pychache__/*
+__pycache__/__init__.cpython-39.pyc
+interface/__pycache__/__init__.cpython-39.pyc
+interface/__pycache__/console_io.cpython-39.pyc
+utils/__pycache__/__init__.cpython-39.pyc
+utils/__pycache__/converter.cpython-39.pyc
+utils/__pycache__/utils.cpython-39.pyc
+calculations/__pycache__/calculator.cpython-39.pyc
+calculations/__pycache__/__init__.cpython-39.pyc
