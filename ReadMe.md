@@ -15,7 +15,7 @@ IMEC is a console-based calculator, created for computing measurements errors an
 ## Usage
 
 1. If you have python>=3.9 installed, then you can download git repo, install dependencies(using pip or poetry) and run with 'python main.py'
-2. Anotherway to run the program is using and executable from build folder.
+2. Another way to run the program is using and executable from build folder.
 
 ## Dependencies
 
