@@ -1,4 +1,4 @@
-# Indirect Measurements Error Calculatore(IMEC)
+# Indirect Measurements Error Calculator(IMEC)
 
 IMEC is a console-based calculator, created for computing measurements errors and then indirect error.
 
